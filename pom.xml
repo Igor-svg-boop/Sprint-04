@@ -10,7 +10,7 @@
 
     <properties>
         <maven.compiler.source>11</maven.compiler.source>
-        <maven.compiler.target>11</mavgit remote set-url origin git@github.com:Igor-svg-boop/Sprint-04.giten.compiler.target>
+        <maven.compiler.target>11</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 
